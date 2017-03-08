@@ -53,6 +53,9 @@ group :development do
   gem 'font-awesome-sass'
   gem 'simple_form'
   gem 'autoprefixer-rails'
+  gem 'better_errors'
+  gem 'binding_of_caller'
+  gem 'bootstrap-sass'
 end
 
 
